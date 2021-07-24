@@ -1,18 +1,20 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Tefas":
+  - firstname: ["Anastasios"]
+    url: https://cidl.csd.auth.gr/anastasios-tefas
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Iosifidis":
+  - firstname: ["Alexandros"]
+    url: https://sites.google.com/view/iosifidis
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Gabbouj":
+  - firstname: ["Moncef"]
+    url: https://www.tuni.fi/en/moncef-gabbouj
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Doropoulos": 
+  - firstname: ["Stavros"]
+    url: https://www.linkedin.com/in/doropoulos/
+    
+"Kanniainen": 
+  - firstname: ["Juho"]
+    url: https://sites.google.com/site/juhokanniainen/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
