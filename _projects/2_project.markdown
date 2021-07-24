@@ -13,12 +13,12 @@ Can machines dream while listening to music? Is it possible to turn music into i
 The proposed method is capable of synthesizing visual stories according to the sentiment expressed by songs. The generated images aim to induce the same feelings to the viewers, as the original song does, reinforcing the primary aim of music, i.e., communicating feelings. deepsing employs a trainable cross-modal translation method to generate visual stories, as shown below:
 <p>
 
-<img src="https://raw.githubusercontent.com/deepsing-ai/deepsing/master/pictures/pipeline.png" alt="deepsing pipeline" width="800" >
+<img src="https://raw.githubusercontent.com/deepsing-ai/deepsing/master/pictures/pipeline.png" alt="deepsing pipeline" style="width: 100%" >
 
 
 The process of generating a visual story is also illustrated bellow
 
-<img src="https://raw.githubusercontent.com/deepsing-ai/deepsing/master/pictures/example.png" alt="example of generating a visual story" width="800" >
+<img src="https://raw.githubusercontent.com/deepsing-ai/deepsing/master/pictures/example.png" alt="example of generating a visual story" style="width: 100%">
 
 <p align="justify">
 We have implemented a front-end to our method at <a href="https://www.deepsing.com">deepsing.com</a> You can find an example of a purely machine-generated visual story using our method at <a href="https://deepsing.com/engine/9C0xGB73Uuc/5dfbcd1ec9e5f7311d8a9fcf">here</a>. Note that the version available at <a href="https://www.deepsing.com">deepsing.com</a> is currently lacking many essential features, but demonstrates the basic concept of our idea! Also, note that song lyrics are NOT used in this process, since the proposed method currently works based SOLELY on the sentiment induced by the audio!

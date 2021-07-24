@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: code and stuff
 permalink: /projects/
-description: You can find here some of my projects. It is difficult to categorize them as work or fun... So, I decided to use the "fun" tag for what is not in my official research interests.
+description: You can find here code, fun projects and other interesting things that I have worked on. It is difficult to categorize them as work or fun... So, I decided to use the "fun" tag for what is not in my official research interests. You can find all my repositories on my <a href="https://github.com/passalis">GitHub</a>.
 nav: true
 display_categories: [work, fun]
 horizontal: false
