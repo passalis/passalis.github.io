@@ -76,7 +76,7 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # -----------------------------------------------------------------------------
 
 blog_name: Random Walks  # your blog must have a name for it to show up in the nav bar
-blog_description: Thoughts, tutorials, and opinions might eventually find their way here.
+blog_description: Thoughts, tutorials, and opinions might eventually find their way here
 permalink: /blog/:year/:title/
 
 # Pagination
