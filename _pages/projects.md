@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: You can find here some of my projects
+description: You can find here some of my projects. It is difficult to categorize them as work or fun... So, I decided to use the "fun" tag for what is not in my official research interests.
 nav: true
 display_categories: [work, fun]
 horizontal: false

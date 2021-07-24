@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Postdoctoral Researcher @ <a href="http://www.auth.gr/en">Aristotle University of Thessaloniki, Greece</a> <br> Adjunt Lecturer @ <a href="https://www.aegean.gr">University of the Aegean, Greece</a>
+description: Postdoctoral Researcher @ <a href="http://www.auth.gr/en">Aristotle University of Thessaloniki, Greece</a> <br> Adjunct Lecturer @ <a href="https://www.aegean.gr">University of the Aegean, Greece</a>
 
 profile:
   align: right
