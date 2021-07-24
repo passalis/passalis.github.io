@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 ### About me
 
-<p align="justify">I am a **postdoctoral researcher** in the <a href="http://www.csd.auth.gr/en">Department of Informatics</a> of <a href="http://www.auth.gr/en">Aristotle University of Thessaloniki</a>, working in the <a href="https://cidl.csd.auth.gr/">Computational Intelligence and Deep Learning (CIDL) </a> group led by <a href="https://cidl.csd.auth.gr/anastasios-tefas/">Prof. Anastasios Tefas</a>. I am also **adjunct lecturer** in the <a href="http://www.fme.aegean.gr/">Department of Financial and Management Engineering</a> of <a ref="https://www.aegean.gr/">University of the Aegean</a>. </p>
+<p align="justify">I am a postdoctoral researcher in the <a href="http://www.csd.auth.gr/en">Department of Informatics</a> of <a href="http://www.auth.gr/en">Aristotle University of Thessaloniki</a>, working in the <a href="https://cidl.csd.auth.gr/">Computational Intelligence and Deep Learning (CIDL) </a> group led by <a href="https://cidl.csd.auth.gr/anastasios-tefas/">Prof. Anastasios Tefas</a>. I am also adjunct lecturer in the <a href="http://www.fme.aegean.gr/">Department of Financial and Management Engineering</a> of <a ref="https://www.aegean.gr/">University of the Aegean</a>. </p>
 
 <br/>
 ### Research Interests
