@@ -1,13 +1,13 @@
 "Tefas":
-  - firstname: ["Anastasios"]
+  - firstname: ["Anastasios", "A."]
     url: https://cidl.csd.auth.gr/anastasios-tefas
 
 "Iosifidis":
-  - firstname: ["Alexandros"]
+  - firstname: ["Alexandros", "A."]
     url: https://sites.google.com/view/iosifidis
 
 "Gabbouj":
-  - firstname: ["Moncef"]
+  - firstname: ["Moncef", "M."]
     url: https://www.tuni.fi/en/moncef-gabbouj
 
 "Doropoulos": 
@@ -15,6 +15,6 @@
     url: https://www.linkedin.com/in/doropoulos/
     
 "Kanniainen": 
-  - firstname: ["Juho"]
+  - firstname: ["Juho", "J."]
     url: https://sites.google.com/site/juhokanniainen/
 

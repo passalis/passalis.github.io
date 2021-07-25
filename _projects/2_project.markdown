@@ -3,7 +3,7 @@ layout: page
 title: deepsing
 description: Generating Sentiment-aware Visual Stories using Cross-modal Music Translation
 importance: 1
-category: fun
+category: DL
 ---
 
 <p align="justify">

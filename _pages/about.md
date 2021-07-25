@@ -33,7 +33,7 @@ My research interests lie in the broad field of deep learning (DL), ranging from
 - Deep Reinforcement Learning
 - Timeseries Analysis
 - Information-theoretic Learning
-- Multimodal Information Fusion
 - Photonic Neuromorphic Deep Learning
+- ... and <a href="research">others</a>
 
 

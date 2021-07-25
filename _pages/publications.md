@@ -2,13 +2,17 @@
 layout: page
 permalink: /publications/
 title: publications
-description: my journal and conference publications
+description: journal and conference publications
 years: [ 2021, 2020, 2019, 2018, 2017, 2016]
 conference_years: [ 2021, 2020, 2019, 2018, 2017, 2016, 2015]
 nav: true
 ---
 
-# Journals
+<p align="justify">
+I have published more than 100 papers in international conferences (CVPR, ICCV, ECCV, ICPR, ISCAS, ...) and international journals (TNNLS, TKDE, PR, ...). You can find a list of my publications, along with links to paper/publisher site and code (when available) below.
+</p>
+
+## Journals
 
 <div class="publications">
 
@@ -19,7 +23,7 @@ nav: true
 
 </div>
 
-# Conferences
+## Conferences
 
 <div class="publications">
 
