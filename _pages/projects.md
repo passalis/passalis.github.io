@@ -2,7 +2,7 @@
 layout: page
 title: code and stuff
 permalink: /projects/
-description: You can find here code, fun projects and other interesting things that I have worked on. You can find all my repositories on my <a href="https://github.com/passalis">GitHub</a>.
+description: You can find here code, fun projects, and other interesting things that I have worked on. You can find all my repositories on my <a href="https://github.com/passalis">GitHub</a>.
 nav: true
 display_categories: [DL, other]
 horizontal: false
