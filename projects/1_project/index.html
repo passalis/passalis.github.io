@@ -11,7 +11,7 @@
   Nikolaos  Passalis
 
 
-  | blog
+  | PySEF
 
 </title>
 <meta name="description" content="A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
@@ -37,7 +37,7 @@
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🔬</text></svg>">
 
 <link rel="stylesheet" href="/assets/css/main.css">
-<link rel="canonical" href="/blog/">
+<link rel="canonical" href="/projects/1_project/">
 
 <!-- JQuery -->
 <!-- jQuery -->
@@ -101,18 +101,14 @@
           </li>
           
           <!-- Blog -->
-          <li class="nav-item active">
+          <li class="nav-item ">
             <a class="nav-link" href="/blog/">
               blog
-              
-              <span class="sr-only">(current)</span>
               
             </a>
           </li>
           
           <!-- Other pages -->
-          
-          
           
           
           
@@ -184,24 +180,49 @@
     <div class="container mt-5">
       <div class="post">
 
-  <div class="header-bar">
-    <h1>Random Walks</h1>
-    <h2>Thoughts, tutorials, and opinions might eventually find their way here</h2>
-  </div>
+  <header class="post-header">
+    <h1 class="post-title">PySEF</h1>
+    <p class="post-description">A Python Library for Similarity-based Dimensionality Reduction</p>
+  </header>
+
+  <article>
+    <p>The vast majority of Dimensionality Reduction techniques rely on second-order statistics to define their optimization objective. Even though this provides adequate results in most cases, it comes with several shortcomings. The methods require carefully designed regularizers and they are usually prone to outliers. The Similarity Embedding Framework can overcome the aforementioned limitations and provides a conceptually simpler way to express optimization targets similar to existing DR techniques. Deriving a new DR technique using the Similarity Embedding Framework becomes simply a matter of choosing an appropriate target similarity matrix. A variety of classical tasks, such as performing supervised dimensionality reduction and providing out-of-of-sample extensions, as well as, new novel techniques, such as providing fast linear embeddings for complex techniques, are demonstrated.</p>
+
+<p><a href="https://github.com/passalis/sef">PySEF</a> is a project on which I worked during my PhD which provides an implementation of the <a href="https://arxiv.org/abs/1706.05692">Similarity Embedding Framework</a> (SEF) on top of the <em>PyTorch</em> library. The documentation of PySEF is available <a href="https://pysef.readthedocs.io">here</a>. Even though this is no longer actively maintained, it should work even with the most recent <em>PyTorch</em> releases. You can open an <a href="https://github.com/passalis/sef/issues"> issue </a> if you find any issues and I will try my best to address it.</p>
+
+<h2 id="how-to-install-pysef">How to install PySEF?</h2>
+<p>You can simply <em>pip install pysef</em>!</p>
+
+<p>Be sure to check the <a href="https://pysef.readthedocs.io">documentation</a> of the project.</p>
+
+<h2 id="further-reading">Further reading</h2>
+
+<p>You can find more details about the Similarity Embedding Framework in our <a href="https://arxiv.org/abs/1706.05692">paper</a>.</p>
+
+<h2 id="citation">Citation</h2>
+
+<p>If you find PySEF/SEF useful please cite the relevant publications. The PySEF library is described in:</p>
+<pre>
+@article{passalis2018pysef,
+  title={PySEF: A Python Library for Similarity-based Dimensionality Reduction},
+  author={Passalis, Nikolaos and Tefas, Anastasios},
+  journal={Knowledge-Based Systems},
+  year={2018},
+}
+</pre>
+<p>while the method was derived and evaluated in detail in:</p>
+
+<pre>
+@article{passalis2017sef,
+  title={Dimensionality Reduction Using Similarity-Induced Embeddings},
+  author={Passalis, Nikolaos and Tefas, Anastasios},
+  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  year={2017},
+}
+</pre>
 
 
-  <ul class="post-list">
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2021/first/">welcome to my blog</a></h3>
-        <p class="post-meta">July 23, 2021</p>
-        <p>this is my first blog post</p>
-      </li>
-    
-  </ul>
-
-  
-
+  </article>
 
 </div>
 
