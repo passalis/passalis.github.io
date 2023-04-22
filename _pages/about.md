@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Postdoctoral Researcher @ <a href="http://www.auth.gr/en">Aristotle University of Thessaloniki, Greece</a> 
+description: Postdoctoral Researcher
 
 profile:
   align: right
