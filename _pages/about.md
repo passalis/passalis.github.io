@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Postdoctoral Researcher @ <a href="http://www.auth.gr/en">Aristotle University of Thessaloniki, Greece</a> <br> Adjunct Lecturer @ <a href="https://www.aegean.gr">University of the Aegean, Greece</a>
+description: Postdoctoral Researcher @ <a href="http://www.auth.gr/en">Aristotle University of Thessaloniki, Greece</a> 
 
 profile:
   align: right
@@ -20,12 +20,12 @@ social: true  # includes social icons at the bottom of the page
 
 ### About me
 
-<p align="justify">I am a postdoctoral researcher in the <a href="http://www.csd.auth.gr/en">Department of Informatics</a> of <a href="http://www.auth.gr/en">Aristotle University of Thessaloniki</a>, working in the <a href="https://cidl.csd.auth.gr/">Computational Intelligence and Deep Learning (CIDL) </a> group led by <a href="https://cidl.csd.auth.gr/anastasios-tefas/">Prof. Anastasios Tefas</a>. I am also an adjunct lecturer in the <a href="http://www.fme.aegean.gr/">Department of Financial and Management Engineering</a> of the <a ref="https://www.aegean.gr/">University of the Aegean</a>. </p>
+<p align="justify">I am a postdoctoral researcher in the <a href="http://www.csd.auth.gr/en">Department of Informatics</a> of <a href="http://www.auth.gr/en">Aristotle University of Thessaloniki</a>, working in the <a href="https://cidl.csd.auth.gr/">Computational Intelligence and Deep Learning (CIDL) </a> group led by <a href="https://cidl.csd.auth.gr/anastasios-tefas/">Prof. Anastasios Tefas</a>. </p>
 
 <br/>
 ### Research Interests
 <p align="justify">
-My research interests lie in the broad field of deep learning (DL), ranging from representation learning and lightweight DL to robotic perception and emerging hardware architectures for accelerating DL. More specifically, my current research interests are mostly focused on the following topics:
+My research interests are centered on the broad area of <b>computational intelligence</b>, with a particular focus on <b>Machine Learning</b> and <b>Deep Learning</b>. My research contributions includes a wide range of works, e.g., from works on fundamental theory of learning to applied research in emerging fields. You can find more information in <a href="research">research</a> page. Some indicative research topics are listed below:
 </p>
 - Lightweight Deep Learning
 - Representation Learning
