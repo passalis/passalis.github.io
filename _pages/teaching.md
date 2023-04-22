@@ -4,6 +4,7 @@ permalink: /teaching/
 title: teaching
 description: useful material for teaching 
 nav: true
+nav_order: 5
 ---
 
 ### Courses
