@@ -6,11 +6,29 @@ description: my main research interests, along with relevant publications
 nav: true
 ---
 
-You can find below a list of research topics I have worked on, along with indicative relevant publications. Note that a few of them might fall within multiple categories. 
+You can find below a selected list of research topics I have worked on, along with indicative relevant publications. Note that a few of them might fall within multiple categories. 
 
-### Representation Learning
+### Information-theoretic Representation Learning
 
-**Feature Aggregation**
+- <a href="https://arxiv.org/abs/2005.00727">N. Passalis, M. Tzelepi, and Anastasios Tefas, "Heterogeneous Knowledge Distillation using Information Flow Modeling," IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020 </a>
+- <a href="https://cidl.csd.auth.gr/resources/conference_pdfs//Passalis_ECCV_2018.pdf">N. Passalis and A. Tefas, "Learning Deep Representations with Probabilistic Knowledge Transfer," European Conference on Computer Vision (ECCV), 2018</a>
+- <a href="https://cidl.csd.auth.gr/resources/journal_pdfs//Probabilistic%20Knowledge%20Transfer%20for%20Lightweight.pdf">N. Passalis, M. Tzelepi and A. Tefas, "Probabilistic Knowledge Transfer for Lightweight Deep Representation Learning", Transactions on Neural Networks and Learning Systems, 2020</a>
+- <a href="https://cidl.csd.auth.gr/resources/journal_pdfs//Deep%20Supervised%20Hashing%20using%20Quadratic%20Spherical%20Mutual%20Information%20for%20Efficient%20Image%20Retrieval.pdf">N. Passalis, and A. Tefas, "Deep supervised hashing using quadratic spherical mutual information for efficient image retrieval", Signal Processing: Image Communication, 2021</a>
+- <a href="https://cidl.csd.auth.gr/resources/journal_pdfs//Variance-preserving%20deep%20metric%20learning%20for%20content-based%20image%20retrieval.pdf">N. Passalis, A. Iosifidis, M. Gabbouj and A. Tefas, "Variance-preserving deep metric learning for content-based image retrieval", Pattern Recognition Letters, 2019</a>
+- <a href="../assets/pdf/eo-bow.pdf">N. Passalis and A. Tefas, "Entropy Optimized Feature-Based Bag-of-Words Representation for Information Retrieval," IEEE Transactions on Knowledge and Data Engineering</a>
+
+### Hybrid (Model-based/Data-driven) Learning
+
+- <a href="https://arxiv.org/abs/2107.04312">P. Nousi, S.-C. Fragkouli, N. Passalis, P. Iosif, T. Apostolatos, G. Pappas, N. Stergioulas, and A. Tefas, "Autoencoder-driven spiral representation learning for gravitational wave surrogate modelling", Neurocomputing, 2022</a>
+- <a href="https://ikee.lib.auth.gr/record/341188/?ln=en">G. Mourgias-Alexandris, M. Moralis-Pegios, A. Tsakyridis, N. Passalis, M. Kirtas, A. Tefas, T. Rutirawut, FY. Gardes, and N. Pleros, "Channel response-aware photonic neural network accelerators for high-speed inference through bandwidth-limited optics", Optics Express, 2022</a>
+- <a href="https://ikee.lib.auth.gr/record/341188/?ln=en">N. Passalis and A. Tefas, "Pseudo-Active Vision For Improving Deep Visual Perception Through Neural Sensory Refinement", IEEE International Conference on Image Processing (ICIP), 2021</a>
+- <a href="https://malena.csd.auth.gr/wp-content/uploads/2021/03/Paper-SSCI-2020.pdf">N. Passalis, and A. Tefas, "Global Adaptive Input Normalization for Short-Term Electric Load Forecasting," IEEE Symposium Series on Computational Intelligence, 2020</a>
+- <a href="https://cidl.csd.auth.gr/resources/journal_pdfs//Forecasting%20Financial%20Time%20Series%20Using%20Robust%20Deep%20Adaptive%20Input%20Normalization%20.pdf">N. Passalis, J. Kanniainen, M. Gabbouj, A. Iosifidis, and A. Tefas, "Forecasting Financial Time Series using Robust Deep Adaptive Input Normalization", Journal of Signal Processing Systems, 2020</a>
+- <a href="https://cidl.csd.auth.gr/resources/journal_pdfs//Deep%20Adaptive%20Input%20Normalization%20for%20Time%20Series%20Forecasting.pdf">N. Passalis, A. Tefas, J. Kanniainen, M. Gabbouj and A. Iosifidis, "Deep Adaptive Input Normalization for Time Series Forecasting", IEEE Transactions on Neural Networks and Learning Systems, 2019</a>
+- <a href="https://ieeexplore.ieee.org/document/9054321">N. Passalis, A. Tefas, J. Kanniainen, M. Gabbouj and A. Iosifidis, "Adaptive Normalization for Forecasting Limit Order Book Data using Convolutional Neural Networks", IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2020</a>
+
+### DL Architectures for Feature Aggregation
+
 - <a href="https://cidl.csd.auth.gr/resources/conference_pdfs//passalis_iccv.pdf">N. Passalis and A. Tefas, "Learning Bag-of-Features Pooling for Deep Convolutional Neural Networks," International Conference on Computer Vision (ICCV), 2017</a>
 - <a href="https://arxiv.org/abs/1906.04445">F. Laakom, N. Passalis, J. Raitoharju, J. Nikkanen, A. Tefas, A. Iosifidis, and M. Gabbouj, "Bag of Color Features For Color Constancy", IEEE Transactions on Image Processing, 2020</a>
 - <a href="https://cidl.csd.auth.gr/resources/journal_pdfs//Temporal%20Logistic%20Neural%20Bag-of-Features%20for%20Financial%20Time.pdf">N. Passalis, A. Tefas, J. Kanniainen, M. Gabbouj, and A. Iosifidis, "Temporal Logistic Neural Bag-of-Features for Financial Time series Forecasting leveraging Limit Order Book Data," Pattern Recognition Letters, 2020</a>
@@ -20,21 +38,6 @@ You can find below a list of research topics I have worked on, along with indica
 - <a href="../assets/pdf/nbow.pdf">N. Passalis and A. Tefas, "Neural Bag-of-Features Learning," Pattern Recognition, 2017</a>
 - <a href="https://cidl.csd.auth.gr/resources/journal_pdfs/fast-bof-retrieval.pdf">N. Passalis and A. Tefas, "Learning Neural Bag-of-Features for Large Scale Information Retrieval," IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2017</a>
 - <a href="../assets/pdf/eo-bow.pdf">N. Passalis and A. Tefas, "Entropy Optimized Feature-Based Bag-of-Words Representation for Information Retrieval," IEEE Transactions on Knowledge and Data Engineering, 2016</a>
-
-**Information-theoretic Learning**
-- <a href="https://arxiv.org/abs/2005.00727">N. Passalis, M. Tzelepi, and Anastasios Tefas, "Heterogeneous Knowledge Distillation using Information Flow Modeling," IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020 </a>
-- <a href="https://cidl.csd.auth.gr/resources/conference_pdfs//Passalis_ECCV_2018.pdf">N. Passalis and A. Tefas, "Learning Deep Representations with Probabilistic Knowledge Transfer," European Conference on Computer Vision (ECCV), 2018</a>
-- <a href="https://cidl.csd.auth.gr/resources/journal_pdfs//Probabilistic%20Knowledge%20Transfer%20for%20Lightweight.pdf">N. Passalis, M. Tzelepi and A. Tefas, "Probabilistic Knowledge Transfer for Lightweight Deep Representation Learning", Transactions on Neural Networks and Learning Systems, 2020</a>
-- <a href="https://cidl.csd.auth.gr/resources/journal_pdfs//Deep%20Supervised%20Hashing%20using%20Quadratic%20Spherical%20Mutual%20Information%20for%20Efficient%20Image%20Retrieval.pdf">N. Passalis, and A. Tefas, "Deep supervised hashing using quadratic spherical mutual information for efficient image retrieval", Signal Processing: Image Communication, 2021</a>
-- <a href="https://cidl.csd.auth.gr/resources/journal_pdfs//Variance-preserving%20deep%20metric%20learning%20for%20content-based%20image%20retrieval.pdf">N. Passalis, A. Iosifidis, M. Gabbouj and A. Tefas, "Variance-preserving deep metric learning for content-based image retrieval", Pattern Recognition Letters, 2019</a>
-- <a href="../assets/pdf/eo-bow.pdf">N. Passalis and A. Tefas, "Entropy Optimized Feature-Based Bag-of-Words Representation for Information Retrieval," IEEE Transactions on Knowledge and Data Engineering</a>
-
-** Hybrid (Model-based/Data-driven) Learning**
-- <a href="https://arxiv.org/abs/2107.04312">P. Nousi, S.-C. Fragkouli, N. Passalis, P. Iosif, T. Apostolatos, G. Pappas, N. Stergioulas, and A. Tefas, "Autoencoder-driven spiral representation learning for gravitational wave surrogate modelling", Neurocomputing, 2022</a>
-- <a href="https://cidl.csd.auth.gr/resources/journal_pdfs//Forecasting%20Financial%20Time%20Series%20Using%20Robust%20Deep%20Adaptive%20Input%20Normalization%20.pdf">N. Passalis, J. Kanniainen, M. Gabbouj, A. Iosifidis, and A. Tefas, "Forecasting Financial Time Series using Robust Deep Adaptive Input Normalization", Journal of Signal Processing Systems, 2020</a>
-- <a href="https://cidl.csd.auth.gr/resources/journal_pdfs//Deep%20Adaptive%20Input%20Normalization%20for%20Time%20Series%20Forecasting.pdf">N. Passalis, A. Tefas, J. Kanniainen, M. Gabbouj and A. Iosifidis, "Deep Adaptive Input Normalization for Time Series Forecasting", IEEE Transactions on Neural Networks and Learning Systems, 2019</a>
-- <a href="https://ieeexplore.ieee.org/document/9054321">N. Passalis, A. Tefas, J. Kanniainen, M. Gabbouj and A. Iosifidis, "Adaptive Normalization for Forecasting Limit Order Book Data using Convolutional Neural Networks", IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2020</a>
-- <a href="https://malena.csd.auth.gr/wp-content/uploads/2021/03/Paper-SSCI-2020.pdf">N. Passalis, and A. Tefas, "Global Adaptive Input Normalization for Short-Term Electric Load Forecasting," IEEE Symposium Series on Computational Intelligence, 2020</a>
 
 
 ### Lightweight Machine/Deep Learning
@@ -51,7 +54,7 @@ You can find below a list of research topics I have worked on, along with indica
 
 
 **Adaptive Computational Graphs for DL**
-N. Passalis, and A. Tefas, "Adaptive Inference for Face Recognition leveraging Deep Metric Learning-enabled Early Exits," European Signal Processing Conference (EUSIPCO), 2021
+- N. Passalis, and A. Tefas, "Adaptive Inference for Face Recognition leveraging Deep Metric Learning-enabled Early Exits," European Signal Processing Conference (EUSIPCO), 2021
 - <a href="https://cidl.csd.auth.gr/resources/journal_pdfs//Efficient%20adaptive%20inference%20for%20deep%20convolutional%20neural%20networks%20using%20hierarchical%20early%20exits.pdf">N. Passalis, J. Raitoharju, A. Tefas, M. Gabbouj, "Efficient Adaptive Inference for Deep Convolutional Neural Networks using Hierarchical Early Exits," Pattern Recognition, 2020</a>
 - <a href="https://ieeexplore.ieee.org/document/8803283">N. Passalis, J. Raitoharju, A. Tefas, M. Gabbouj, "Adaptive Inference using Hierarchical Convolutional Bag-of-Features for Low-power Embedded Platforms," IEEE International Conference on Image Processing (ICIP), 2019</a>
 - <a href="https://cidl.csd.auth.gr/resources/conference_pdfs//Efficient%20Adaptive%20Inference%20Leveraging%20Bag-of-Features-based%20Early%20Exits.pdf">N. Passalis, J. Raitoharju, M. Gabbouj, and A. Tefas, "Efficient Adaptive Inference leveraging Bag-of-Features-based Early Exits," IEEE International Workshop on Multimedia Signal Processing, 2020
@@ -70,6 +73,10 @@ N. Passalis, and A. Tefas, "Adaptive Inference for Face Recognition leveraging D
 
 
 ### Timeseries Analysis
+**Energy Data Analytics**
+- <a href="https://malena.csd.auth.gr/wp-content/uploads/2022/07/Load_demand_forecasting_on_greek_energy_market_using_lightweight_neural_networks.pdf">N. Maragkos, M. Tzelepi, N. Passalis, A. Adamakos, and A. Tefas, "Electric load demand forecasting on greek energy market using lightweight neural networks", IEEE 14th Image, Video, and Multidimensional Signal Processing Workshop (IVMSP), 2022</a>
+- <a href="https://malena.csd.auth.gr/wp-content/uploads/2021/03/Paper-SSCI-2020.pdf">N. Passalis, and A. Tefas, "Global Adaptive Input Normalization for Short-Term Electric Load Forecasting," IEEE Symposium Series on Computational Intelligence, 2020</a>
+
 **Timeseries analysis**
 - <a href="https://cidl.csd.auth.gr/resources/journal_pdfs//Forecasting%20Financial%20Time%20Series%20Using%20Robust%20Deep%20Adaptive%20Input%20Normalization%20.pdf">N. Passalis, J. Kanniainen, M. Gabbouj, A. Iosifidis, and A. Tefas, "Forecasting Financial Time Series using Robust Deep Adaptive Input Normalization", Journal of Signal Processing Systems , 2020</a>
 - <a href="https://cidl.csd.auth.gr/resources/journal_pdfs//Using%20Deep%20Learning%20for%20price%20prediction%20by%20exploiting%20stationary.pdf">A. Tsantekidis, N. Passalis, A. Tefas, J. Kanniainen, M. Gabbouj and A. Iosifidis, "Using Deep Learning for price prediction by exploiting stationary limit order book features", Applied Soft Computing, 2020</a>
@@ -92,7 +99,6 @@ N. Passalis, and A. Tefas, "Adaptive Inference for Face Recognition leveraging D
 - <a href="https://cidl.csd.auth.gr/resources/conference_pdfs//Kirtas_Tsampazis_Webots.pdf">M. Kirtas, K. Tsampazis, N. Passalis, and Anastasios Tefas, "A Webots-based Deep Reinforcement Learning Framework for Robotics," International Conference on Artificial Intelligence Applications and Innovations, 2020</a>
 
 **Perception and Control**
-
 - <a href="https://cidl.csd.auth.gr/resources/conference_pdfs//eusipco_passalis.pdf">N. Passalis and A. Tefas, "Concept Detection and Face Pose Estimation Using Lightweight Convolutional Neural Networks for Steering Drone Video Shooting," European Signal Processing Conference (EUSIPCO), 2017</a>
 - <a href="https://cidl.csd.auth.gr/resources/conference_pdfs//Passalis_ISCAS_2018.pdf">N. Passalis, A. Tefas and I. Pitas, "Efficient camera control using 2d visual information for unmanned aerial vehicle-based cinematography," International Symposium on Circuits and Systems (ISCAS), 2018</a>
 - <a href="https://ieeexplore.ieee.org/document/8918694">J. Taipalmaa, N. Passalis, H. Zhang, M. Gabbouj and J. Raitoharju, "High-Resolution Water Segmentation for Autonomous Unmanned Surface Vehicles: A novel dataset and evaluation," IEEE International Workshop on Machine Learning for Signal Processing (MLSP), 2019</a>
@@ -101,7 +107,7 @@ N. Passalis, and A. Tefas, "Adaptive Inference for Face Recognition leveraging D
 - <a href="https://arxiv.org/abs/2003.00745"> Villa Escusol, Jose, Taipalmaa, Jussi, Gerasimenko, Mikhail, Pyattaev, Alexander, Ukonaho, Mikko, Zhang, Honglei, Raitoharju, Jenni, Passalis, Nikolaos, Perttula, Antti, Aaltonen, Jussi, and others, "aColor: Mechatronics, Machine Learning, and Communications in an Unmanned Surface Vehicle", Transport Research Arena Conference (TRA2020) </a>
 
 **Active Perception**
-- N. Passalis, and A. Tefas, "Pseudo-Active Vision for Improving Deep Visual Perception through Neural Sensory Refinement," IEEE International Conference on Image Processing (ICIP), 2021
+- <a href="https://ikee.lib.auth.gr/record/341188/?ln=en">N. Passalis and A. Tefas, "Pseudo-Active Vision For Improving Deep Visual Perception Through Neural Sensory Refinement", IEEE International Conference on Image Processing (ICIP), 2021</a>
 - <a href="https://cidl.csd.auth.gr/resources/conference_pdfs//Improving%20Visual%20Question%20Answering%20using%20Active%20Perception%20on%20Static%20Images.pdf">T. Bozinis, N. Passalis, and A. Tefas, "Improving Visual Question Answering using Active Perception on Static Images," International Conference on Pattern Recognition (ICPR), 2020 </a>
 - <a href="https://cidl.csd.auth.gr/resources/conference_pdfs//Tzimas_Leveraging_DRL.pdf">A. Tzimas, N. Passalis, and Anastasios Tefas, "Leveraging Deep Reinforcement Learning for Active Shooting under Open-World Setting," IEEE International Conference on Multimedia and Expo, 2020</a>
 
