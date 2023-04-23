@@ -1,12 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - passalis
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - opendr-eu/opendr
+  - deepsing-ai/deepsing
+  - passalis/dain
+  - passalis/probabilistic_kt
+  - passalis/cbof
+  - passalis/sef
+
