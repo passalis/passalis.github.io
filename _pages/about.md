@@ -27,12 +27,13 @@ social: true  # includes social icons at the bottom of the page
 <p align="justify">
 My research interests are centered on the broad area of <b>computational intelligence</b>, with a particular focus on <b>Machine Learning</b> and <b>Deep Learning</b>. My research contributions includes a wide range of works, e.g., from works on fundamental theory of learning to applied research in emerging fields. You can find more information in <a href="research">research</a> page. Some indicative research topics are listed below:
 </p>
-- Lightweight Deep Learning
+- Information-theoretic Learning
 - Representation Learning
+- Hybrid (Model-based/Data-driven) Learning
 - Robotics Perception
+- Lightweight Deep Learning
 - Deep Reinforcement Learning
 - Timeseries Analysis
-- Information-theoretic Learning
 - Photonic Neuromorphic Deep Learning
 - ... and <a href="research">others</a>
 
