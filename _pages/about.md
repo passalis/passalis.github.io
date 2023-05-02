@@ -31,6 +31,7 @@ My research interests are centered on the broad area of <b>computational intelli
 - Representation Learning
 - Hybrid (Model-based/Data-driven) Learning
 - Robotics Perception
+- Computer Vision
 - Lightweight Deep Learning
 - Deep Reinforcement Learning
 - Timeseries Analysis
