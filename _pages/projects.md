@@ -1,6 +1,7 @@
 ---
 layout: page
 title: code and stuff
+nav_order: 4
 permalink: /projects/
 description: You can find here code, fun projects, and other interesting things that I have worked on. You can also check my GitHub repositories.
 nav: true
