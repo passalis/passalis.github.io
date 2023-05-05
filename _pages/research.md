@@ -18,7 +18,7 @@ You can find below a selected list of research topics I have worked on, along wi
 - <a href="https://cidl.csd.auth.gr/resources/journal_pdfs//Variance-preserving%20deep%20metric%20learning%20for%20content-based%20image%20retrieval.pdf">N. Passalis, A. Iosifidis, M. Gabbouj and A. Tefas, "Variance-preserving deep metric learning for content-based image retrieval", Pattern Recognition Letters, 2019</a>
 - <a href="../assets/pdf/eo-bow.pdf">N. Passalis and A. Tefas, "Entropy Optimized Feature-Based Bag-of-Words Representation for Information Retrieval," IEEE Transactions on Knowledge and Data Engineering</a>
 
-### Hybrid (Model-based/Data-driven) Learning
+### Model-based and Data-driven Learning
 
 - <a href="https://arxiv.org/abs/2107.04312">P. Nousi, S.-C. Fragkouli, N. Passalis, P. Iosif, T. Apostolatos, G. Pappas, N. Stergioulas, and A. Tefas, "Autoencoder-driven spiral representation learning for gravitational wave surrogate modelling", Neurocomputing, 2022</a>
 - <a href="https://ikee.lib.auth.gr/record/341188/?ln=en">G. Mourgias-Alexandris, M. Moralis-Pegios, A. Tsakyridis, N. Passalis, M. Kirtas, A. Tefas, T. Rutirawut, FY. Gardes, and N. Pleros, "Channel response-aware photonic neural network accelerators for high-speed inference through bandwidth-limited optics", Optics Express, 2022</a>

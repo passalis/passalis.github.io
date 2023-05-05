@@ -29,11 +29,11 @@ My research interests are centered on the broad area of <b>computational intelli
 </p>
 - Information-theoretic Learning
 - Representation Learning
-- Hybrid (Model-based/Data-driven) Learning
 - Robotics Perception
 - Computer Vision
 - Lightweight Deep Learning
 - Deep Reinforcement Learning
+- Model-based and Data-driven Learning
 - Timeseries Analysis
 - Photonic Neuromorphic Deep Learning
 - ... and <a href="research">others</a>
