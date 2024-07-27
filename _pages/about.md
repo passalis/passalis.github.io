@@ -20,21 +20,19 @@ social: true  # includes social icons at the bottom of the page
 
 ### About me
 
-<p align="justify">I am a postdoctoral researcher in the <a href="http://www.csd.auth.gr/en">Department of Informatics</a> of <a href="http://www.auth.gr/en">Aristotle University of Thessaloniki</a>, working in the <a href="https://cidl.csd.auth.gr/">Computational Intelligence and Deep Learning (CIDL) </a> group led by <a href="https://cidl.csd.auth.gr/anastasios-tefas/">Prof. Anastasios Tefas</a>. </p>
+<p align="justify">I am an Assistant Proffesor in the <a href="https://cheng.auth.gr/en/">Department of Chemical Engineering</a> of <a href="http://www.auth.gr/en">Aristotle University of Thessaloniki</a>, specializing in Computational Intelligence methods. </p>
 
 <br/>
 ### Research Interests
 <p align="justify">
-My research interests are centered on the broad area of <b>computational intelligence</b>, with a particular focus on <b>Machine Learning</b> and <b>Deep Learning</b>. My research contributions includes a wide range of works, e.g., from works on fundamental theory of learning to applied research in emerging fields. You can find more information in <a href="research">research</a> page. Some indicative research topics are listed below:
+My research interests are centered on the broad area of <b>computational intelligence</b>, with a particular focus on <b>Machine Learning</b> and <b>Deep Learning</b>, focusing especially on leveraging such approaches to tackle novel and challenging problems in the domain of Chemical Engineering. My research contributions includes a wide range of works, e.g., from works on fundamental theory of learning to applied research in emerging fields. You can find more information in <a href="research">research</a> page. Some indicative research topics are listed below:
 </p>
-- Information-theoretic Learning
 - Representation Learning
-- Robotics Perception
-- Computer Vision
-- Lightweight Deep Learning
+- Information-theoretic Learning
+- Timeseries Analysis and Forecasting
 - Deep Reinforcement Learning
-- Model-based and Data-driven Learning
-- Timeseries Analysis
+- Hybrid Mechanistic/Model-based and Data-driven Learning
+- Robotics Perception and Computer Vision
 - Photonic Neuromorphic Deep Learning
 - ... and <a href="research">others</a>
 
