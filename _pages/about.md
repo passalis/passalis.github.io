@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 ### About me
 
-<p align="justify">I am an Assistant Proffesor in the <a href="https://cheng.auth.gr/en/">Department of Chemical Engineering</a> of <a href="http://www.auth.gr/en">Aristotle University of Thessaloniki</a>, specializing in computational intelligence. </p>
+<p align="justify">I am an Assistant Professor in the <a href="https://cheng.auth.gr/en/">Department of Chemical Engineering</a> of <a href="http://www.auth.gr/en">Aristotle University of Thessaloniki</a>, specializing in computational intelligence. </p>
 
 <br/>
 ### Research Interests
