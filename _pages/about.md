@@ -10,6 +10,7 @@ profile:
   address: >
    <p>Room 402a, E13 Building</p>
    <p>University Campus, Thessaloniki</p>
+   <p>Tel. +30 231099.6168 </p>
    
 
 news: false  # includes a list of news items
