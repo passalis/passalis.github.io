@@ -1,0 +1,140 @@
+body {
+    background-color: #f9f9f7;
+    color: #222;
+    font-family: Georgia, serif;
+    max-width: 700px;
+    margin: 4em auto;
+    padding: 0 1em;
+    line-height: 1.75;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    letter-spacing: 0.02em; 
+}
+
+
+header {
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.header-title {
+    font-family: Georgia, serif;
+    font-size: 2.1rem;
+    margin-bottom: 1rem;
+    font-weight: normal;
+    color: #222;
+}
+
+.header-line {
+    margin-top: 1rem;
+    border-top: 1px solid #ccc;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.15);
+}
+
+nav {
+    text-align: center;
+    margin-top: 1rem;
+    margin-bottom: 0rem;
+    font-size: 1.2rem;
+}
+
+
+
+nav a {
+    text-decoration: none;
+    color: #222;
+    margin: 0 1.2em;
+    font-weight: bold;
+    letter-spacing: 0.02em;
+    font-variant: small-caps; 
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+h1 {
+    font-size: 2.5rem;
+    margin-bottom: 0.4em;
+    font-weight: normal;
+}
+
+h2 {
+    font-size: 1.4rem;
+    color: #444;
+    margin-bottom: 3em;
+    font-weight: normal;
+    padding-bottom: 0.3em;
+}
+
+h3 {
+    font-size: 1.2rem;
+    margin-top: 2em;
+    font-weight: bold;
+    color: #333;
+}
+
+h4 {
+    font-size: 1.05rem;
+    margin-top: 2em;
+    font-weight: bold;
+    color: #333;
+}
+
+p {
+    font-size: 1rem;
+    margin-bottom: 1.6em;
+}
+
+ul {
+    margin-bottom: 1.6em;
+}
+
+img.profile {
+    display: block;
+    max-width: 180px;
+    border-radius: 50%;
+    margin: 0 auto 2em auto;
+    box-shadow: 0 0 8px rgba(0,0,0,0.1);
+}
+
+footer {
+    margin-top: 5em;
+    padding-top: 1.5em;
+    border-top: 1px solid #ccc;
+    text-align: center;
+    font-size: 0.95rem;
+    color: #666;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 1.5;
+
+    padding-bottom: 2em;
+    font-style: italic; 
+}
+
+.profile-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 2em;
+    gap: 1.5em;
+}
+
+img.profile {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    flex-shrink: 0;
+}
+
+.profile-text {
+    flex: 1;
+}
+
+

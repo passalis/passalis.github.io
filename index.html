@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Nikolaos Passalis</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div id="header"></div>
+
+    <div class="profile-container">
+        <img src="photo.jpg" alt="Nikolaos Passalis" class="profile">
+        <div class="profile-text">
+			<h2>Assistant Professor<br>Department of Chemical Engineering <br>Aristotle University of Thessaloniki, Greece</h2>
+        </div>
+    </div>
+    
+    <p style="text-align: justify;">
+            I am an Assistant Professor of Computational Intelligence in the <a href="https://cheng.auth.gr" target="_blank"> Dept. of Chemical Engineering</a> at the <a href="https://en.wikipedia.org/wiki/Aristotle_University_of_Thessaloniki" target="_blank">Aristotle University of Thessaloniki (AUTh)</a>, Greece. The university is named after the philosopher <a href="https://en.wikipedia.org/wiki/Aristotle" target="_blank">Aristotle</a>, who was born in the nearby city of <a href="https://en.wikipedia.org/wiki/Stageira" target="_blank">Stageira</a>.
+             </p>
+
+    <p style="text-align: justify;">
+	    
+    My research centers on intelligent systems at the crossroads of artificial intelligence, robotics, and computer vision. 
+    I develop methods that empower autonomous and robotic systems to perceive, interpret, and reason about the real world—capturing both their surroundings and the behaviors of the people within them.
+
+    I am especially interested in active perception and reinforcement learning as key components for building adaptive and resilient robotic behaviors. 
+    Additionally, I work on the development of efficient deep learning models tailored for deployment on embedded and edge computing platforms. 
+    My research also focuses on photonic neural networks and optics-informed deep learning architectures, which offer new possibilities for ultra-fast and energy-efficient AI in various challenging settings.
+
+
+  <h3>Contact</h3>
+  <p>Office: Room 402A, Building E13, Faculty of Engineering, University Campus</p>
+  <p>Email: <span id="email"></span> </p>
+  
+
+  <script>
+      const user = 'passalis';
+      const domain = 'auth.gr';
+      document.getElementById('email').innerHTML = `<a href="mailto:${user}+spam@${domain}">${user}@${domain}</a>`;
+  </script>
+
+    
+
+    <div id="footer"></div>
+    
+    
+    
+    <script src="include.js"></script>
+</body>
+</html>
